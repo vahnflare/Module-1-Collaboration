@@ -1,1 +1,1 @@
-print("Hello World")
+python -m tkinter
