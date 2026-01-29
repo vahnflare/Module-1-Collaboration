@@ -13,6 +13,7 @@ def convert_temp():
 root = tk.Tk()
 root.title("TempCalculator")
 root.geometry("600x350")
+root.resizable(True, True)
 root.configure(bg="#8A2BE2")  # Purple background
 
 # Header Label (38px)
